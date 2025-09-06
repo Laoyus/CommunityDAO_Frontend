@@ -2,19 +2,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, make an account on vercel then request the access.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Make sure MetaMask is installed in your browser with sepolia eth in it (atleast 0.01 is required).
+This is required to register to the website and interact with it by creating communitties, polls, vote casting and donations.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open (https://community-dao-frontend-paqhu08ki-laoyus-projects-7244cb53.vercel.app) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
